@@ -8,8 +8,8 @@
 
 
 <h1>Features</h1>
-<h2>1. Classes:<h2>
-<h3>The system comprises the following classes with specific functionalities:<h3>
+<h2>1. Classes:</h2>
+<h3>The system comprises the following classes with specific functionalities:</h3>
 
 Employee: Manages employee details such as ID, name, department, and role.
 Department: Handles department-related details including Department ID and name.
@@ -34,7 +34,7 @@ Specific methods within each class offer functionalities tailored to their respe
 
 The system is structured to be integrated into larger applications or utilized individually to manage employee-related data efficiently. Users can import these classes into their projects and utilize their methods to handle employee management operations.
 
-<h2>Integration:<h2>
+<h2>Integration:</h2>
 
 <h3>1. Importing:</h3>
 from main import Employee, Department, Role, LeaveType, Leave, ManageAccount
