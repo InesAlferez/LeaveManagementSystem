@@ -36,13 +36,18 @@ The system is structured to be integrated into larger applications or utilized i
 
 <h2>Integration:</h2>
 
-<h3>1. Importing:</h3>
+## Importing:
+```sh
 from main import Employee, Department, Role, LeaveType, Leave, ManageAccount
+```
 
 <h3>2. Creating Instances:</h3> 
-# Example Usage
+
+## Example Usage
+```sh
 employee = Employee(1, "John Doe", 1, 1)
 employee.getEmployeeDetails()
+```
 
 <h3>3. Using Methods:</h3>
 Use setter methods to update details.
